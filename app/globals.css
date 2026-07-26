@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700;900&family=Space+Mono:ital,wght@0,400;0,700;1,700&family=Syne:wght@800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-syne: 'Syne', sans-serif;
+  --font-space: 'Space Grotesk', sans-serif;
+  --font-mono: 'Space Mono', monospace;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000000;
+  color: #FFFFFF;
+  font-family: var(--font-space);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Minimal/Maximalist Scanlines */
+.scanlines {
+  background: linear-gradient(
+    rgba(18, 16, 16, 0) 50%, 
+    rgba(0, 0, 0, 0.4) 50%
+  ), linear-gradient(
+    90deg,
+    rgba(255, 0, 0, 0.03),
+    rgba(0, 255, 0, 0.01),
+    rgba(0, 0, 255, 0.03)
+  );
+  background-size: 100% 4px, 6px 100%;
+}
+
+/* Pattern de puntos denso brutalista */
+.bg-brutal-dots {
+  background-image: radial-gradient(#39FF14 1.5px, transparent 1.5px);
+  background-size: 24px 24px;
+}
+
+/* Texto de contorno hueco (Stroke text) */
+.text-stroke-neon {
+  -webkit-text-stroke: 4px #39FF14;
+  color: transparent;
+}
+
+.text-stroke-white {
+  -webkit-text-stroke: 3px #FFFFFF;
+  color: transparent;
+}
+
+/* Marquee / Ticker infinito */
+@keyframes marquee {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-marquee {
+  display: flex;
+  width: 200%;
+  animation: marquee 15s linear infinite;
+}
