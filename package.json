@@ -12,6 +12,7 @@
     "publish": "node scripts/instagram_publisher.js",
     "scheduler": "node scripts/4_scheduler.js",
     "publish-reels": "node scripts/publish_reels.js",
+    "render-video": "node scripts/5_render_video.js",
     "build-carousel": "npm run generate && npm run capture"
   },
   "dependencies": {
