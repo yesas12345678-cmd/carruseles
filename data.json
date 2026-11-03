@@ -1,38 +1,38 @@
 [
   {
     "slide_numero": 1,
-    "titulo_hook": "5 HERRAMIENTAS IMPRESCINDIBLES EN CIBERSEGURIDAD 🛡️",
-    "texto_desarrollo": "Descubre las utilities esenciales utilizadas por auditores de seguridad y SysAdmins para proteger infraestructuras y auditar redes.",
-    "emoji_o_icono": "🛡️"
+    "titulo_hook": "¿POR QUÉ LOS CHIPS DE IA DE GOOGLE SE SOBRECALIENTAN EN EL ESPACIO? 🔥",
+    "texto_desarrollo": "Google quiere llevar sus TPUs a la órbita con Project Suncatcher.\nLa radiación la aguantan. El problema de verdad es el CALOR.",
+    "emoji_o_icono": "🛰️"
   },
   {
     "slide_numero": 2,
-    "titulo_hook": "01. NMAP (NETWORK MAPPER) 🌐",
-    "texto_desarrollo": "El estándar de la industria para el escaneo de puertos, descubrimiento de hosts activos y detección de servicios/SO en redes locales y remotas.",
-    "emoji_o_icono": "📡"
+    "titulo_hook": "01. EN EL VACÍO NO HAY AIRE QUE ENFRÍE 🌬️",
+    "texto_desarrollo": "En la Tierra, ventiladores y agua se llevan el calor por convección.\nEn el espacio no hay aire: esa vía desaparece por completo.",
+    "emoji_o_icono": "🚫"
   },
   {
     "slide_numero": 3,
-    "titulo_hook": "02. WIRESHARK 🦈",
-    "texto_desarrollo": "Analizador de protocolos de red en tiempo real. Permite capturar y desglosar paquetes a nivel microscópico para auditar fugas de datos.",
-    "emoji_o_icono": "🔍"
+    "titulo_hook": "02. SOLO QUEDA RADIAR EL CALOR ☢️",
+    "texto_desarrollo": "El calor solo puede escapar como radiación infrarroja (ley de Stefan-Boltzmann).\nEs lenta: necesitas radiadores enormes para sacar cientos de vatios por chip.",
+    "emoji_o_icono": "🌡️"
   },
   {
     "slide_numero": 4,
-    "titulo_hook": "03. BURP SUITE 🧪",
-    "texto_desarrollo": "La herramienta líder para auditorías de seguridad en aplicaciones web. Intercepta tráfico HTTP/HTTPS y analiza vulnerabilidades OWASP Top 10.",
-    "emoji_o_icono": "⚡"
+    "titulo_hook": "03. SOL 24/7 SIN DESCANSO ☀️",
+    "texto_desarrollo": "Suncatcher usa una órbita amanecer-atardecer: los paneles casi nunca ven la noche.\nEnergía casi infinita… y calor entrando sin parar.",
+    "emoji_o_icono": "☀️"
   },
   {
     "slide_numero": 5,
-    "titulo_hook": "04. METASPLOIT FRAMEWORK 💥",
-    "texto_desarrollo": "Plataforma indispensable de pruebas de penetración para validar parches de seguridad y simular ataques controlados en entornos de prueba.",
-    "emoji_o_icono": "💣"
+    "titulo_hook": "04. SATÉLITES APIÑADOS = CALOR CONCENTRADO 🧱",
+    "texto_desarrollo": "Para conectarse por láser, los satélites vuelan a solo 100‑200 m entre sí.\nMás cómputo por metro cúbico, menos sitio para radiadores. Google lo cita como reto clave.",
+    "emoji_o_icono": "🔥"
   },
   {
     "slide_numero": 6,
-    "titulo_hook": "¡GUARDA ESTE CARRUSEL Y APRENDE CIBERSEGURIDAD! 🔥",
-    "texto_desarrollo": "¿Cuál de estas herramientas usas en tus auditorías diarias?\nDéjalo en los comentarios y síguenos en @cyber_raw_dev.",
+    "titulo_hook": "¿DATA CENTERS EN ÓRBITA? GUARDA ESTE CARRUSEL 🚀",
+    "texto_desarrollo": "Google y Planet lanzarán 2 satélites prototipo en 2027 para probarlo.\n¿Crees que funcionará? Comenta y síguenos en @cyber_raw_dev.",
     "emoji_o_icono": "🎯"
   }
 ]
